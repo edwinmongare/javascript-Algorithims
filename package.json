@@ -1,8 +1,11 @@
 {
-  "name": "Algorithims",
+  "name": "algorithims-javascript",
   "version": "1.0.0",
   "description": "javascript data structures and alorithims",
   "main": "index.js",
   "author": "edwin mongare",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start-app": "nodemon index.js"
+  }
 }
